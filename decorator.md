@@ -7,7 +7,7 @@ def a(func):
 
 @a
 def b():
-    print("This is b")
+    print("This is b.")
 
 b()
 ```
