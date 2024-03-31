@@ -14,7 +14,7 @@
 > b()
 > ```
 > 
-> - 結果
+> - 執行結果
 > ```python
 > This is decorator.
 > This is b.
